@@ -4,17 +4,7 @@ body {
     background-image: url(/src/images/bg-desktop.svg);
     background-size: cover;
 }
-:hover.fa-facebook-f {
-    color: hsl(300, 69%, 71%);
-    cursor: pointer;
-}
-
-:hover.fa-twitter {
-    color: hsl(300, 69%, 71%);
-    cursor: pointer;
-}
-
-:hover.fa-instagram {
+:hover.icons-social {
     color: hsl(300, 69%, 71%);
     cursor: pointer;
 }
